@@ -1,0 +1,200 @@
+.userBox {
+	border-radius: 15px;
+	border: 1px solid rgba(0,0,0,.4);
+	width: 300px;
+	overflow: hidden;
+	margin: 20px;
+}
+
+.avatar {
+	box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.5), inset 0 1px 0px rgba(255, 255, 255, 0.6);
+	border-radius: 5px;
+	margin: 0px 15px;
+	top: 20px;
+	float:left;
+	position:relative;
+	z-index: 5
+}
+
+.header {
+	display: block;
+	clear:both;
+	background: url('../img/metal.png') #222;
+	position:relative;
+	height: 125px;
+}
+
+.nameBox {
+	position:relative;
+	top: 40px;
+	z-index: 3;
+}
+
+.nameBox h2{
+	display: block;
+	height: 45px;
+	color: #FAFAFA;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+	line-height: 45px;
+	box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.5), inset 0 1px 0px rgba(255, 255, 255, 0.6);
+}
+
+.nameBox h2 a{
+	color: #FAFAFA;
+}
+
+.info {
+	padding: 12px;
+}
+
+.badge {
+	background: url('../img/metal.png') #222;
+	border-radius: 5px 0 0 5px;
+}
+
+.onCallScheduleName {
+	border-top: 1px solid #111;
+	padding-top: 10px;
+}
+
+.scheduledTime {
+	border: 1px #555 solid;
+	border-left: none;
+	border-radius: 0 5px 5px 0;
+	position:relative;
+	top: 1px;
+	padding: 0px 7px;
+	box-shadow: 0px 0px 3px #999 inset;
+	background-color: #ebebeb;
+	
+}
+
+/*///////////////////////////////////
+//
+// Colors
+//
+///////////////////////////////////*/
+
+.blue {
+	background: blue;
+}
+.blue-violet {
+	background: blueviolet;
+}
+.brown {
+	background: brown;
+}
+.cayenne {
+	background: cayenne;
+}
+.chocolate {
+	background: chocolate;
+}
+.crimson {
+	background: crimson;
+}
+.dark-cyan {
+	background: darkcyan;
+}
+.dark-goldenrod {
+	background: darkgoldenrod;
+}
+.dark-green {
+	background: dark-green;
+}
+.dark-magenta {
+	background: darkmagenta;
+}
+.darkolive-green {
+	background: darkolivegreen;
+}
+.dark-olive-green {
+	background: darkolivegreen;
+}
+.dark-orange {
+	background: darkorange;
+}
+.dark-orchid {
+	background: darkorchid;
+}
+.dark-red {
+	background: darkred;
+}
+.dark-slate-blue {
+	background: darkslateblue
+}
+.dark-slate-gray {
+	background: darkslategray
+}
+.dark-slate-grey {
+	background: darkslategrey
+}
+.deep-pink {
+	background: deeppink
+}
+.firebrick {
+	background: fire-brick
+}
+.forest-green {
+	background: forestgreen
+}
+.green {
+	background: green
+}
+.grey20 {
+	background: #202020;
+}
+.indigo {
+	background: indigo;
+}
+.lime {
+	background: lime;
+}
+.lime-green h2 {
+	background: limegreen;
+}
+.maroon{
+	background: maroon;
+}
+.medium-violet-red {
+	background: mediumvioletred;
+}
+.midnight-blue {
+	background: midnightblue;
+}
+.olivedrab {
+	background: olivedrab;
+}
+.orange {
+	background: orange;
+}
+.orange-red {
+	background:  orangered;
+}
+.purple {
+	background: purple;
+}
+.red {
+	background: red;
+}
+.royal-blue {
+	background: royalblue;
+}
+.saddle-brown {
+	background: saddlebrown;
+}
+.sea-green {
+	background: seagreen;
+}
+.slate-blue {
+	background: slateblue;
+}
+.steel-blue {
+	background: steelblue;
+}
+.teal {
+	background: teal;
+}
+.turquoise {
+	background: turquoise
+}
